@@ -1,4 +1,4 @@
-# tec-ride-on-polar-bear
+# tec-Ride-On-Polar-Bear
 
 A Matt Strong inspired project, "I always wanted to ride a bear as a kid".
 
