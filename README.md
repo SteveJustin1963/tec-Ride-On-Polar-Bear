@@ -3,9 +3,9 @@
 A Matt Strong inspired project, "I always wanted to ride a bear as a kid".
 ![download](https://user-images.githubusercontent.com/58069246/175305212-641e95be-2451-443a-b042-448a0a2a69bd.jpg)
 
-Using "openDog" platform
+Using "openDog" platform  .... https://github.com/XRobots/openDog
 
-A tec1 controlled robot polar bear or brown bear you can ride on it back, powered by tesla super charger up the butt hole, or it sleeps on a wireless charging plate. It makes real sounds, growls and can swipe at people with its claws. Internally its a quadruped dressed as a bear. saddle on the back, handle bars thru the head, its growls when you press the horn or pat its butt.
+A tec1 controlled robot polar bear or brown bear you can ride on it back, re-charge connector in butt hole, or it sleeps on a wireless charging plate. It makes real sounds, growls and can swipe at people with its soft claws. Internally its a quadruped dressed as a bear. saddle on the back, handle bars thru the head, its growls when you press the horn or pat its butt.
 
 ### bear walking gait
 What kind of gait Do bears have?
