@@ -28,4 +28,5 @@ Bears frequently move in an overstep walk, with the rear foot falling in front o
 
 ### Ref
 - https://en.wikipedia.org/wiki/Gait
-
+- https://www.shopmascot.com/Realistic-Grizzly-Bear-Mascot-Costume?
+- 
