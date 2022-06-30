@@ -25,6 +25,21 @@ Bears frequently move in an overstep walk, with the rear foot falling in front o
 ![download](https://user-images.githubusercontent.com/58069246/176603780-7af42b5a-cfed-4d63-9ab8-2c6d0be07c0d.png)
 ![500px-Gait_graphs_v2](https://user-images.githubusercontent.com/58069246/176603837-7b493146-8ba2-4f5a-a848-6320a5770b29.png)
 
+### geometry of bear
+![download](https://user-images.githubusercontent.com/58069246/176604357-7b9b98fa-b29e-4f79-91fa-74ece6f6b285.jpg)
+![download](https://user-images.githubusercontent.com/58069246/176604388-a2873fc8-f459-4a15-9548-3a2a98c681b5.jpg)
+![download](https://user-images.githubusercontent.com/58069246/176604464-9d215021-7df4-4470-a0dd-b84f3b08c43d.jpg)
+![download](https://user-images.githubusercontent.com/58069246/176604490-669c8369-2ab5-4e71-a225-86e1c60b50fc.jpg)
+![images](https://user-images.githubusercontent.com/58069246/176604521-fe5017a7-cb02-4555-9617-72e5278e9fb0.jpg)
+![download](https://user-images.githubusercontent.com/58069246/176604607-cccf69b3-8cd4-4426-bf51-6eaf2ba881f3.jpg)
+
+
+
+
+
+
+
+
 
 ### Ref
 - https://en.wikipedia.org/wiki/Gait
