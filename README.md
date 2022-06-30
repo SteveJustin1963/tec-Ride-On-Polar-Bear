@@ -1,7 +1,9 @@
 # tec-Ride-On-Polar-Bear
 
-A Matt Strong inspired project, "I always wanted to ride a bear as a kid".
+
 ![download](https://user-images.githubusercontent.com/58069246/175305212-641e95be-2451-443a-b042-448a0a2a69bd.jpg)
+
+A Matt Strong inspired project, "I always wanted to ride a bear as a kid".
 
 Using "openDog" platform  .... https://github.com/XRobots/openDog
 
