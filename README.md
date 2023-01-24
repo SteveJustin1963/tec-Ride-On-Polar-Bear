@@ -19,6 +19,18 @@ Initial analysis of the video data shows that bears walk with an average speed o
 How do bears walk?
 Bears frequently move in an overstep walk, with the rear foot falling in front of where the front foot registered. The broadest part of the palm pad is on the outside and the shortest toe, which may not register, is on the inside. Bears toe-in and walk with most of their weight on the outside of their foot.
 
+## convert gait-patterns-in-quadruped to maths formula
+It is not possible to convert gait patterns in quadruped animals to a single mathematical formula as gait patterns vary depending on the animal and its environment. However, researchers have used mathematical models to analyze and understand gait patterns in quadruped animals. These models typically include equations for the dynamics of the animal's movement and may incorporate variables such as limb kinematics, muscle forces, and ground reaction forces.
+
+## what about just the sequence
+The gait sequence of a quadruped animal can be described mathematically by the order in which its limbs touch the ground. For example, the gait sequence for a trotting quadruped can be represented as " diagonal pair" (front left and hind right legs move together, followed by front right and hind left legs) or "lope" (left hind and left front legs move together followed by the right hind and right front legs) .
+
+Another way to represent it mathematically would be by using a state transition matrix, where each state represents a specific limb in contact with the ground, and the matrix describes the probabilities of transitioning from one state to another.
+
+Additionally, various mathematical models have been proposed to describe the gait patterns of quadruped animals, such as the spring-mass model, the dynamic model, and the optimization-based model. These models can be used to analyze the kinematics and kinetics of the animal's movement, and can be represented mathematically using a variety of equations and variables such as limb kinematics, muscle forces, and ground reaction forces.
+
+
+
 - https://www.youtube.com/watch?v=Av78oZwA7XI
 
 ![0017775 010](https://user-images.githubusercontent.com/58069246/176603738-633d58c0-cbba-4f99-a9bf-87bfdf801edf.png)
