@@ -42,40 +42,8 @@ if we have a 4x4 transition matrix, and we want to calculate the probability of 
  Where P(state1 to state2) is the element in the transition matrix at row 1 and column 2, and P(state2 to state3) is the element in the transition matrix at row 2 and column 3.
 In this case, the probability of transitioning from state 1 to state 3 after two steps is the product of the two elements in the transition matrix: P(state1 to state2) * P(state2 to state3).
 
-convet to c code
-```
-// Declare and initialize transition matrix
-double transition_matrix[4][4] = {
-    {0.2, 0.3, 0.3, 0.2},
-    {0.3, 0.2, 0.2, 0.3},
-    {0.2, 0.3, 0.3, 0.2},
-    {0.3, 0.2, 0.2, 0.3}
-};
+convet to c code; `stm1.c`
 
-// Function to calculate probability of transitioning from one state to another
-double transition_probability(int start, int end, int steps)
-{
-    // Initialize probability to 1
-    double probability = 1;
-
-    // Calculate the probability of transitioning from start to end in given number of steps
-    for (int i = 0; i < steps; i++) {
-        probability *= transition_matrix[start][end];
-    }
-
-    return probability;
-}
-
-int main()
-{
-    // Calculate the probability of transitioning from state 1 to state 3 after two steps
-    double probability = transition_probability(1, 3, 2);
-
-    printf("Probability of transitioning from state 1 to state 3 after two steps: %f\n", probability);
-
-    return 0;
-}
-``
 
 ## kinematic data
 Given the kinematic data of a quadruped animal's hind limb during a trot gait, use the spring-mass model equations to calculate the forces acting on the limb and estimate the animal's muscle activity.
@@ -92,35 +60,7 @@ For elasticity, the force is equal to the spring constant multiplied by the disp
 `Felasticity = kx`
 Using these equations, we can calculate the net force acting on the limb, the forces due to gravity and elasticity, and the muscle activity.
 
-convert to c code
-
-```
-float Fnet, M, Fgravity, Felasticity;
-
-float m, g, k, x;
-
-/*Calculate net force*/
-Fnet = m*g + k*x;
-
-/*Calculate muscle activity*/
-M = Fnet/Fmax;
-
-/*Calculate forces due to gravity and elasticity*/
-Fgravity = m*g;
-Felasticity = k*x;
-
- 
-
-/*Print results*/
-printf("Net Force: %f\n", Fnet);
-printf("Gravitational Force: %f\n", Fgravity);
-printf("Elastic Force: %f\n", Felasticity);
-printf("Muscle Activity: %f\n", M);
-
-return 0;
-}
-```
-
+convert to c code; `kd1,c`
 
 - https://www.youtube.com/watch?v=Av78oZwA7XI
 
